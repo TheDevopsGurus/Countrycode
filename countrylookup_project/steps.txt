@@ -1,0 +1,9 @@
+Step : 1    Unzip the countrylookup.zip at the root of extracted folder
+Step : 2    mvn clean install
+Step : 3    cd target
+Step : 4    java -jar lookup.jar --countryCode=IN
+
+
+OR to execute  for single input or mutiple inputs(in comma separated) use this below
+
+Execute command-line-utility-multiinput.sh  which is avaialble in countrylookup_project folder
